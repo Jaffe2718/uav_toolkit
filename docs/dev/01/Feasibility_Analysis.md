@@ -6,9 +6,10 @@
 
 ## Change History
 
-| id  |    date    | version | description | reason | proposer | reviewer | approver |
-|:---:|:----------:|:-------:|:-----------:|:------:|:--------:|:--------:|:--------:|
-| 001 | 2024-03-19 |   1.0   | First Draft |        |   李昌哲    |   李昌哲    |   李昌哲    |
+| id  |    date    | version |   description    |       reason        | proposer | reviewer | approver |
+|:---:|:----------:|:-------:|:----------------:|:-------------------:|:--------:|:--------:|:--------:|
+| 001 | 2024-03-19 |   1.0   |   First Draft    |                     |   李昌哲    |   李昌哲    |   李昌哲    |
+| 002 | 2024-03-19 |   1.1   | Content revision | Specific objectives |   李昌哲    |   李昌哲    |   李昌哲    |
 
 > **Note:** The reason for the change is mainly divided into:
 > 1. Establish the first draft
@@ -80,15 +81,13 @@ Therefore, the development of a toolkit specifically for UAV remote sensing data
 
 ### Objectives
 
-1. To develop a tool that can be used to process UAV remote sensing data.
+1. To develop a UAV image correction and leveling tool based on ArcGIS Pro.
 2. To provide a series of functions or develop a tool to help users process UAV remote sensing data more efficiently.
 3. To provide a series of functions or develop a tool to help users visualize UAV remote sensing data in 3D.
-4. To provide a series of functions or develop a tool to help users detect targets and output the objectification of the
-   grid based on the 3D scene of ArcGIS Pro.
-5. To develop a tool that can be used to check the accuracy of image matching based on ArcGisPro.
-6. To develop a tool that can be used to optimize the deep learning processing of UAV remote sensing images based on
+4. To develop a tool that can be used to check the accuracy of image matching based on ArcGisPro.
+5. To develop a tool that can be used to optimize the deep learning processing of UAV remote sensing images based on
    ArcGls Pro.
-7. To integrate the above functions into one or more toolkits (`*.tbx`) and provide a user-friendly interface with the
+6. To integrate the above functions into one or more toolkits (`*.tbx`) and provide a user-friendly interface with the
    user documentations as the final product.
 
 ### Range of Application

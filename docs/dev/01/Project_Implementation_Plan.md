@@ -26,15 +26,13 @@ Therefore, the development of a toolkit specifically for UAV remote sensing data
 
 The main objectives of the project are as follows:
 
-1. To develop a tool that can be used to process UAV remote sensing data.
+1. To develop a UAV image correction and leveling tool based on ArcGIS Pro.
 2. To provide a series of functions or develop a tool to help users process UAV remote sensing data more efficiently.
 3. To provide a series of functions or develop a tool to help users visualize UAV remote sensing data in 3D.
-4. To provide a series of functions or develop a tool to help users detect targets and output the objectification of the
-   grid based on the 3D scene of ArcGIS Pro.
-5. To develop a tool that can be used to check the accuracy of image matching based on ArcGisPro.
-6. To develop a tool that can be used to optimize the deep learning processing of UAV remote sensing images based on
+4. To develop a tool that can be used to check the accuracy of image matching based on ArcGisPro.
+5. To develop a tool that can be used to optimize the deep learning processing of UAV remote sensing images based on
    ArcGls Pro.
-7. To integrate the above functions into one or more toolkits (`*.tbx`) and provide a user-friendly interface with the
+6. To integrate the above functions into one or more toolkits (`*.tbx`) and provide a user-friendly interface with the
    user documentations as the final product.
 
 ## Project Overall Plan
@@ -47,7 +45,7 @@ The main objectives of the project are as follows:
 |         02 Schematic Design Stage         | 2024-03-23 | 2024-03-27 |                                                            1. Functional Design Specification                                                             |                                                  To complete the schematic design stage of the project.                                                  |     李昌哲, 佘誉鸿     |
 |         03 Detailed Design Stage          |    ???     |    ???     |                                                             1. Detailed Design Specification                                                              |                                                  To complete the detailed design stage of the project.                                                   |       ALL        |
 |  04 Development and Implementation Stage  |    ???     |    ???     |                                                             1. Development and Implementation                                                             |                                           To complete the development and implementation stage of the project.                                           |       ALL        |
-|             05 Testing Stage              |    ???     |    ???     |                                                                        1. Testing                                                                         |                                                      To complete the testing stage of the project.                                                       |        满宇        |
+|             05 Testing Stage              |    ???     |    ???     |                                                                        1. Testing                                                                         |                                                      To complete the testing stage of the project.                                                       |      满宇, 苏雅      |
 |           06 Maintenance Stage            |    ???     |    ???     |                                                                      1. Maintenance                                                                       |                                                    To complete the maintenance stage of the project.                                                     |        彭焱        |
 
 ## Project Team Organization
