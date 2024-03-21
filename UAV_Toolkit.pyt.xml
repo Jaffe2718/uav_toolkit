@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<metadata xml:lang="en">
+    <Esri>
+        <CreaDate>20240320</CreaDate>
+        <CreaTime>20062600</CreaTime>
+        <ArcGISFormat>1.0</ArcGISFormat>
+        <SyncOnce>TRUE</SyncOnce>
+        <ModDate>20240321</ModDate>
+        <ModTime>11471400</ModTime>
+        <scaleRange>
+            <minScale>50000</minScale>
+            <maxScale>5000</maxScale>
+        </scaleRange>
+        <ArcGISProfile>ItemDescription</ArcGISProfile>
+    </Esri>
+    <toolbox name="UAV_Toolkit" alias="toolbox">
+        <arcToolboxHelpPath>d:\program files\arcgis\pro\Resources\Help\gp</arcToolboxHelpPath>
+    </toolbox>
+    <dataIdInfo>
+        <idCitation>
+            <resTitle>UAV_Toolkit</resTitle>
+        </idCitation>
+        <idPurp>
+            This is a python-toolbox for UAV remote sensing data processing in ArcGIS Pro environment. It is aimed
+            at providing a series of functions to help users process and visualize UAV remote sensing data more
+            efficiently.
+        </idPurp>
+        <searchKeys>
+            <keyword>uav_toolkit</keyword>
+        </searchKeys>
+    </dataIdInfo>
+    <distInfo>
+        <distributor>
+            <distorFormat>
+                <formatName>ArcToolbox Toolbox</formatName>
+            </distorFormat>
+        </distributor>
+    </distInfo>
+    <mdHrLv>
+        <ScopeCd value="005"></ScopeCd>
+    </mdHrLv>
+    <mdDateSt Sync="TRUE">20240321</mdDateSt>
+</metadata>
