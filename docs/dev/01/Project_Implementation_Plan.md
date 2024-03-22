@@ -27,11 +27,11 @@ Therefore, the development of a toolkit specifically for UAV remote sensing data
 The main objectives of the project are as follows:
 
 1. To develop a UAV image correction and leveling tool based on ArcGIS Pro.
-2. To provide a series of functions or develop a tool to help users process UAV remote sensing data more efficiently.
+2. Exposure and enhancement problems of nighttime urban UAV images, combined with application testing and development of interpretation techniques.
 3. To provide a series of functions or develop a tool to help users visualize UAV remote sensing data in 3D.
-4. To develop a tool that can be used to check the accuracy of image matching based on ArcGisPro.
+4. To develop a tool that can be used to check the accuracy of image matching based on ArcGIS Pro.
 5. To develop a tool that can be used to optimize the deep learning processing of UAV remote sensing images based on
-   ArcGls Pro.
+   ArcGIS Pro.
 6. To integrate the above functions into one or more toolkits (`*.tbx`) and provide a user-friendly interface with the
    user documentations as the final product.
 
