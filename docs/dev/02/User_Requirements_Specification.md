@@ -43,8 +43,7 @@
 ### Deep Learning UAV Image Processing
 
 1. Develop a tool to automatically segment all objects in the UAV image.
-2. Develop a tool to export ONNX model from the UAV image.
-3. Develop a tool to segment specified objects in the UAV image.
+2. Develop a tool to segment specified objects in the UAV image.
 
 ## Non-Functional Requirements
 
