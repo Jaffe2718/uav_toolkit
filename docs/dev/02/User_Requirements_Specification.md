@@ -26,7 +26,8 @@
 
 ### UAV Image Correction and Leveling
 
-[//]: # (TODO: 由佘誉鸿填写)
+1. Develop a plug-in that can achieve the following functions: Import drone images in batches in Arcgis pro,
+And the UAV image coordinates are accurately corrected and displayed in Arcgis pro.
 
 ### Image Matching Accuracy Checking
 
