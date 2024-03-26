@@ -14,7 +14,9 @@ Each phase of this project needs to be implemented in strict accordance with the
 
 - [01-3 Project Implementation Plan](01/Project_Implementation_Plan.md)
 
-- [01-4 Project Implementation Schedule](01/Project_Implementation_Schedule.md)
+- [01-4 Summary Schedule for Project Implementation](01/Summary_Schedule_for_Project_Implementation.md)
+
+- [01-5 Project Implementation Schedule](01/Project_Implementation_Schedule.md)
 
 ### 02 Requirement Analysis
 
